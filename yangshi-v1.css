@@ -1025,9 +1025,9 @@ body.logged-in.white-theme.logged-admin.nav-fixed.site-layout-1.body-scroll .con
         padding: 7px
     }
 
-    span.toggle-radius.msg-icon {
+    /*span.toggle-radius.msg-icon {
         top: 8px
-    }
+    }*/
 
     posts.posts-item.list.ajax-item.flex {
         width: calc(50% - 10px);
