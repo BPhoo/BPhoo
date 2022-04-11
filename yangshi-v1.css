@@ -1414,9 +1414,9 @@ div#index-tab-3>posts.posts-item.list.ajax-item.flex {
     width: 100%
 }
 
-.tab-nav-theme.mini-scrollbar>li {
+/*.tab-nav-theme.mini-scrollbar>li {
     display: flex
-}
+}*/
 
 .tab-nav-theme li.active::before {
     opacity: 0
@@ -1456,7 +1456,7 @@ div#index-tab-3>posts.posts-item.list.ajax-item.flex {
     }
 }
 
-ul.list-inline.scroll-x.mini-scrollbar {
+.index-tab>ul.list-inline.scroll-x.mini-scrollbar {
     display: none
 }
 
