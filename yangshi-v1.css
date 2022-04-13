@@ -177,6 +177,7 @@ span.newadd-btns.hover-show.float-btn.add-btn .hover-show-con.dropdown-menu.drop
     border-radius: 8px
 }
 
+/*
 .float-right.round.position-bottom a:hover {
     background: #5d5d5d;
     --this-color: #fff
@@ -186,6 +187,7 @@ span.newadd-btns.hover-show.float-btn.add-btn .hover-show-con.dropdown-menu.drop
     background: #5d5d5d;
     --this-color: #fff
 }
+*/
 
 i.iconfont.icon-dingbu {
     font-size: 27px
