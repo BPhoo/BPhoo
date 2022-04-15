@@ -1163,7 +1163,7 @@ div#index-tab-0>posts.posts-item.list.ajax-item.flex {
 }
 
 .widget_text.zib-widget.widget_custom_html {
-    margin-bottom: 8px;
+    margin-bottom: 0;
     padding: 5px;
     margin-top: 0px
 }
