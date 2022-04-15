@@ -324,7 +324,7 @@ img.fit-cover.avatar {
     color: rgba(255, 255, 255, 1)
 }
 
-#go-fav span {
+#go-fav>.dingbulan>span {
     padding: 5px 10px;
     background: rgba(255, 197, 0, 1);
     border-radius: 5px;
