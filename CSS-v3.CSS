@@ -1537,7 +1537,7 @@ div#widget-widget_ui_main_tab_posts-3-tab_0 {
     display: none
 }
 
-.content-layout>.widget_text.zib-widget.widget_custom_html {padding: 8px;}
+.content-layout>.widget_text.zib-widget.widget_custom_html {padding: 8px;margin-bottom: 8px;margin-top: 1px;}
 
 .container.fluid-widget>.theme-box:nth-child(3){background-color: var(--main-bg-color);padding: var(--main-radius);border-radius: var(--main-radius);}
 .container.fluid-widget .theme-box:nth-child(3)>.box-body.notop>.title-theme::before{display:none;}
