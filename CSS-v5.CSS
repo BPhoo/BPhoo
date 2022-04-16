@@ -1,0 +1,10 @@
+body {
+    cursor: url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/S1.cur), default
+}
+
+a:hover,
+.cursor:hover,
+button:hover,
+svg:hover {
+    cursor: url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/S2.cur), pointer
+}
