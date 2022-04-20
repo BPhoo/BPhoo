@@ -980,10 +980,11 @@ article.article.main-bg.theme-box.box-body.radius8.main-shadow {
     margin: 0 0 20px 0
 }
 
+/*
 img.img-icon.ml3 {
     width: 19.99px;
     height: 19.99px
-}
+}*/
 
 body.logged-in.white-theme.logged-admin.nav-fixed.site-layout-1 .container-fluid>.navbar-header {
     display: none
