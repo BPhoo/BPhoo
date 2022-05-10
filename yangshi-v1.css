@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'webfont';
     font-display: swap;
-    src: url('https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.eot');
-    src: url('https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.eot?#iefix') format('embedded-opentype'), url('https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.woff') format('woff'), url('https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.ttf') format('truetype'), url('https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.svg') format('svg')
+    src: url('https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.eot');
+    src: url('https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@c3740d2148664d49f1c4a85c733766f006ea4035/%E7%8C%AB%E5%95%83%E7%BD%91%E7%B3%96%E5%9C%86%E4%BD%93.svg') format('svg')
 }
 
 * {
@@ -72,7 +72,7 @@ header.header.header-layout-2 {
 }
 
 span.but.BP {
-    background: url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/icon-48px.png) center center;
+    background: url(https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@main/icon-48px.png) center center;
     height: 16px;
     background-size: 20px 20px;
     margin: 2px 3px 0 0
@@ -118,7 +118,7 @@ body.home.blog.logged-in.white-theme.logged-admin.nav-fixed.site-layout-2 .nav.n
     top: -25px;
     width: 30px;
     height: 60px;
-    background: url(https://jsdelivr.panbaidu.cn/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
+    background: url(https://cdn.jsdelivr.net/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
     box-shadow: 0 0 black;
     background-size: cover
 }
@@ -225,7 +225,7 @@ a.float-btn.ontop.fade {
     content: '';
     width: 30px;
     height: 60px;
-    background: url(https://jsdelivr.panbaidu.cn/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
+    background: url(https://cdn.jsdelivr.net/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
     background-size: cover;
     display: block;
     margin: 5px 3px 0 7px;
@@ -360,7 +360,7 @@ footer.footer {
 
 textarea#comment {
     background-color: transparent;
-    background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/MCliuyan.png) right 10px bottom -1px no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url(https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@main/MCliuyan.png) right 10px bottom -1px no-repeat;
     -moz-transition: ease-in-out 0.45s;
     background-size: contain;
     -webkit-transition: ease-in-out 0.45s;
@@ -839,7 +839,7 @@ input.form-control.search-input.focus-show {
 
 @media screen and (min-width:680px) {
     .joe_div {
-        background: url(https://jsdelivr.panbaidu.cn/gh/yayuliao/image/kangna.png) right 10px bottom 10px no-repeat;
+        background: url(https://cdn.jsdelivr.net/gh/yayuliao/image/kangna.png) right 10px bottom 10px no-repeat;
         background-size: 12%
     }
 }
@@ -1275,7 +1275,7 @@ input.form-control.search-input.focus-show {
     top: -25px;
     width: 30px;
     height: 60px;
-    background: url(https://jsdelivr.panbaidu.cn/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
+    background: url(https://cdn.jsdelivr.net/gh/yayuliao/image/sd_medusa_enveloppe-idle.gif);
     box-shadow: 0 0 black;
     background-size: cover
 }
@@ -1374,14 +1374,14 @@ ul.sub-menu span.ml10.badg.jb-yellow.vip-expdate-tag {
 }
 
 body {
-    cursor: url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/S1.cur), default
+    cursor: url(https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@main/S1.cur), default
 }
 
 a:hover,
 .cursor:hover,
 button:hover,
 svg:hover {
-    cursor: url(https://jsdelivr.panbaidu.cn/gh/BPhoo/BPhoo@main/S2.cur), pointer
+    cursor: url(https://cdn.jsdelivr.net/gh/BPhoo/BPhoo@main/S2.cur), pointer
 }
 
 div#index-tab-2>posts.posts-item.list.ajax-item.flex {
